@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Fearless pt. II",
+  "base_artist": "Lost Sky",
+  "createdAt": "2026-02-08T07:34:25.730917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky feat. Chris Linton",
+      "has_synced": true,
+      "path": "select/01_Fearless_Pt._II_Lost_Sky_feat._Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky/Chris Linton",
+      "has_synced": true,
+      "path": "select/02_Fearless_Pt._II_Lost_Sky_Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fearless, Pt. II",
+      "artist": "Lost Sky",
+      "has_synced": true,
+      "path": "select/03_Fearless,_Pt._II_Lost_Sky.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Tule feat. Chris Linton",
+      "has_synced": true,
+      "path": "select/04_Fearless_Pt._II_Tule_feat._Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky",
+      "has_synced": true,
+      "path": "select/05_Fearless_Pt._II_Lost_Sky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky & Chris Linton",
+      "has_synced": true,
+      "path": "select/06_Fearless_Pt._II_Lost_Sky_&_Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fearless pt. II (feat. Chris Linton) [Music Video Edit]",
+      "artist": "Lost Sky",
+      "has_synced": true,
+      "path": "select/07_Fearless_pt._II_(feat._Chris_Linton)_[Music_Video_Edit]_Lost_Sky.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky, Chris Linton",
+      "has_synced": true,
+      "path": "select/08_Fearless_Pt._II_Lost_Sky,_Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Chris Linton",
+      "has_synced": true,
+      "path": "select/09_Fearless_Pt._II_Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fearless, Pt. II",
+      "artist": "Lost Sky ft. Chris Linton",
+      "has_synced": true,
+      "path": "select/10_Fearless,_Pt._II_Lost_Sky_ft._Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fearless pt. II",
+      "artist": "Lost Sky/Chris Linton",
+      "has_synced": true,
+      "path": "select/11_Fearless_pt._II_Lost_Sky_Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fearless, Pt. II (feat. Chris Linton)",
+      "artist": "Lost Sky",
+      "has_synced": true,
+      "path": "select/12_Fearless,_Pt._II_(feat._Chris_Linton)_Lost_Sky.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fearless, Pt. II (cu Chris Linton)",
+      "artist": "Lost Sky",
+      "has_synced": true,
+      "path": "select/13_Fearless,_Pt._II_(cu_Chris_Linton)_Lost_Sky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky • Chris Linton",
+      "has_synced": true,
+      "path": "select/14_Fearless_Pt._II_Lost_Sky_•_Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Starlifter: Fearless Pt. II",
+      "artist": "Crown Lands",
+      "has_synced": false,
+      "path": "select/15_Starlifter__Fearless_Pt._II_Crown_Lands.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fearless, Pt․ II",
+      "artist": "Lost Sky Feat․ Chris Linton",
+      "has_synced": true,
+      "path": "select/16_Fearless,_Pt._II_Lost_Sky_Feat._Chris_Linton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fearless, Pt. II (feat. Chris Linton)",
+      "artist": "Lost Sky",
+      "has_synced": true,
+      "path": "select/17_Fearless,_Pt._II_(feat._Chris_Linton)_Lost_Sky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky, Chris Linton",
+      "has_synced": false,
+      "path": "select/pl_01_Fearless_Pt._II_Lost_Sky,_Chris_Linton.txt"
+    }
+  ]
+}
